@@ -14,6 +14,9 @@ Built as a research project at the University of Koblenz.
 - Filter by district and date range
 - Daily cases, deaths and active cases over time
 - 7-day incidence chart coloured by severity (mild, moderate, severe, very severe)
+
+![7-day incidence by severity](screenshots/incidence.png)
+
 - District-level choropleth map
 - Table of the last 10 days of case records
 
